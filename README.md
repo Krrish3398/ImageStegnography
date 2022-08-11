@@ -8,7 +8,7 @@ Design:
 To Execute download zip file
 
 Execution:
-
+```
 gcc *.c
 
 ./a.out -e beautiful.bmp secret.txt
@@ -71,3 +71,4 @@ Successful ::  Decoded secret message
 Successful :: Hurrayy!!! Decoding Completed :)
 
 You can check text content by using the command --> cat decode.txt
+```
