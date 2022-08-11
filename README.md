@@ -1,6 +1,10 @@
 # ImageStegnography
 The objective of this project is to send a secret text encoded inside an image of bmp file format.
 
+Design:
+
+![alt text](https://github.com/Krrish3398/ImageStegnography/blob/main/img/ls_fc.jpg)
+
 To Execute download zip file
 
 Execution:
