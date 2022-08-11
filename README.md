@@ -3,11 +3,16 @@ The objective of this project is to send a secret text encoded inside an image o
 
 Sample Execution
 gcc *.c
+
 ./a.out -e beautiful.bmp secret.txt
+
 *****************Selected Encoding*****************
+
 Read and validate arguments is successful
 Opened all the files successfully
+
 .............Started Encoding.............
+
 width = 1024
 height = 768
 Possible to hide the data in image
